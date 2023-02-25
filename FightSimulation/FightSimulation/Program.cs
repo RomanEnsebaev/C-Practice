@@ -94,6 +94,10 @@ namespace FightSimulation
         public void TakeDamage(double damage)
         {
             double takenDamage = damage -_armor*0.5;
+            if (_takenDamage < 0)
+            {
+                _takenDamage = 0;
+            }
             _health -= takenDamage;
         }
         public void ShowCurrentHealth()
