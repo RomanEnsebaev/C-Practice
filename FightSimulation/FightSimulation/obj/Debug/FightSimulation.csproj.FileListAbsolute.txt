@@ -1,0 +1,8 @@
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\bin\Debug\FightSimulation.exe.config
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\bin\Debug\FightSimulation.exe
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\bin\Debug\FightSimulation.pdb
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\obj\Debug\FightSimulation.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\obj\Debug\FightSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\obj\Debug\FightSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\obj\Debug\FightSimulation.exe
+C:\Users\Роман\source\repos\FightSimulation\FightSimulation\obj\Debug\FightSimulation.pdb

@@ -1,0 +1,8 @@
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\bin\Debug\CafeAdmin.exe.config
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\bin\Debug\CafeAdmin.exe
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\bin\Debug\CafeAdmin.pdb
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\obj\Debug\CafeAdmin.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\obj\Debug\CafeAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\obj\Debug\CafeAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\obj\Debug\CafeAdmin.exe
+C:\Users\Роман\source\repos\CafeAdmin\CafeAdmin\obj\Debug\CafeAdmin.pdb

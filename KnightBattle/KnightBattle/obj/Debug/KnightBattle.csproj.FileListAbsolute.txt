@@ -1,0 +1,8 @@
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\bin\Debug\KnightBattle.exe.config
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\bin\Debug\KnightBattle.exe
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\bin\Debug\KnightBattle.pdb
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\obj\Debug\KnightBattle.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\obj\Debug\KnightBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\obj\Debug\KnightBattle.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\obj\Debug\KnightBattle.exe
+C:\Users\Роман\source\repos\KnightBattle\KnightBattle\obj\Debug\KnightBattle.pdb

@@ -1,0 +1,8 @@
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\bin\Debug\SimpleTaskBoard.exe.config
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\bin\Debug\SimpleTaskBoard.exe
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\bin\Debug\SimpleTaskBoard.pdb
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\obj\Debug\SimpleTaskBoard.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\obj\Debug\SimpleTaskBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\obj\Debug\SimpleTaskBoard.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\obj\Debug\SimpleTaskBoard.exe
+C:\Users\Роман\source\repos\SimpleTaskBoard\SimpleTaskBoard\obj\Debug\SimpleTaskBoard.pdb
